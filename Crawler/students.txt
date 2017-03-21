@@ -1,0 +1,13 @@
+5.5;Jan6;Kowalski6;21
+5.0;Jan2;Kowalski2;23
+4.4;Julita;Mnich;20
+2.0;Jakub;Dwojak;20
+6.0;Joanna;Michalska;28
+4.3;Monika;Gierc;99
+6.0;Joanna;Michalska;50
+3.3;Monika;Gierc;20
+3.3;Monis;Gier;15
+3.3;Monika;Gierc;19
+7.0;Jan6;Kowalski6;21
+2.2;Janek;Misio;8
+4.0;Piotr;Koczen;21
