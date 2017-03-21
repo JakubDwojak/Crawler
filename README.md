@@ -1,2 +1,3 @@
 # Crawler
-Simple Internet Bot
+#Simple Internet Bot
+#Made by Jakub Dwojak & Karol Drozdowski
